@@ -49,10 +49,3 @@ Project has been deployed and live on:
 
 http://ec2-13-234-38-210.ap-south-1.compute.amazonaws.com:8080/
 
-
-
-
-Done By
-1. Swapnadeep Sarkar
-2. Subidita Maity
-3. Tirtha Paul Chowdhury
